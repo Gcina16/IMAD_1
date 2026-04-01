@@ -49,8 +49,7 @@ This project uses GitHub Actions to automatically build the app on every push.
 YouTube (Unlisted): 
 https://youtube.com/shorts/aAwdPuKugL8?si=GqBHdU-doPqO4vhk
 
- References
-You’ll need to cite sources that helped you. Here are some good references:
+ References:
 
 Android Developers. Build your first app in Kotlin. https://developer.android.com
 
